@@ -1,0 +1,18 @@
+{
+    "name": "miclovii/name-plugin",
+    "description": "tamplate for plugin init",
+    "type": "project",
+    "license": "GPL",
+    "autoload": {
+        "psr-4": {
+            "Inc\\": "./inc"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nieves",
+            "email": "carlosnievescode@gmail.com"
+        }
+    ],
+    "require": {}
+}
